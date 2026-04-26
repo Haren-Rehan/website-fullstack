@@ -1,0 +1,22 @@
+index.html
+* {
+        font-family:Georgia, 'Times New Roman', Times, serif ;
+        font-size: 18px;
+    }
+    .information.link {
+        background-color: rgb(242, 192, 131);
+        color: white;
+        font-weight: 600;
+        text-align: center;
+    }
+    .information.pribadi {
+        background-color: rgb(249, 249, 249);
+        font-weight: 100;
+    }
+
+/* profil.html */
+    .image {
+        text-align: center;
+        height: auto;
+        width: auto;
+    }
