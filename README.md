@@ -13,3 +13,7 @@ font-weight = mempertebal text
 background-color = mengubah body menjadi berwarna
 color = mengubah warna text
 
+padding = Meningkatkan jarak antara batas kotak dan isi kotak.
+border = menambahkan ruang (walaupun hanya satu atau dua piksel) antara margin dan padding.
+margin = Meningkatkan jarak antara batas-batas suatu kotak dengan batas-batas kotak yang bersebelahan.
+
