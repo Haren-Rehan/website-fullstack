@@ -1,4 +1,5 @@
 index.html
+profil.html
 * {
         font-family:Georgia, 'Times New Roman', Times, serif ;
         font-size: 18px;
@@ -8,10 +9,12 @@ index.html
         color: white;
         font-weight: 600;
         text-align: center;
+        outline: 2px solid black;
     }
     .information.pribadi {
         background-color: rgb(249, 249, 249);
         font-weight: 100;
+        margin-top: 10px;
     }
 
 /* profil.html */
@@ -19,4 +22,9 @@ index.html
         text-align: center;
         height: auto;
         width: auto;
+        padding-bottom: 50px;
+    }
+    .information {
+        border: 2px solid  rgba(240, 157, 23, 0.544);
+        padding-left: 20px;
     }
