@@ -1,0 +1,25 @@
+body {
+    background-color: #476072;
+}
+
+div {
+    display: block;
+    padding: 20px;
+    margin-bottom: 10px;
+    color: #eeeeee;
+}
+
+.header_head {
+    background-color: #548CA8;
+    text-align: center;
+}
+
+.body_bod{
+    background-color: #4e6b7f;
+}
+
+.tail_tai {
+    background-color: #334257;
+    padding: 1px;
+    text-align: center;
+}
