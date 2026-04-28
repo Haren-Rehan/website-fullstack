@@ -10,10 +10,13 @@ text-allign = mengatur posisi text
 
 font-weight = mempertebal text
 
+align-content = posisi objek didalam
+
 background-color = mengubah body menjadi berwarna
 color = mengubah warna text
 
 padding = Meningkatkan jarak antara batas kotak dan isi kotak.
+display = menetukan perblock
 border = menambahkan ruang (walaupun hanya satu atau dua piksel) antara margin dan padding.
 margin = Meningkatkan jarak antara batas-batas suatu kotak dengan batas-batas kotak yang bersebelahan.
 
